@@ -19,8 +19,9 @@ A powerful **Retrieval-Augmented Generation (RAG)** application that allows you 
 - 🎨 **Beautiful UI**: Clean and responsive Streamlit interface
 - ⚡ **Real-time Processing**: Fast document processing and question answering
 
-![Screenshot](<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/8321c6ef-ae64-4c8d-9dfe-8b7a137ba73e" />
-)
+## 📸 Screenshot
+![Screenshot](https://github.com/aaarif796/RAGs-PDF-Reader/blob/main/screenshots.png)
+
 ## 🚀 Complete Installation Guide
 
 ### Prerequisites
@@ -354,5 +355,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by [aaarif796](https://github.com/aaarif796)**
 
 *If this project helped you, please consider giving it a ⭐!*
+
 
 
