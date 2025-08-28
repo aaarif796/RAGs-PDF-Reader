@@ -116,17 +116,6 @@ pip install python-dotenv
 pip install openai
 ```
 
-#### For GPU Support (Optional):
-If you have an NVIDIA GPU and want faster processing:
-
-```bash
-# Uninstall CPU version of torch
-pip uninstall torch
-
-# Install GPU version
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
-
 ### Step 5: Set Up Environment Variables
 
 #### Method 1: Create .env file
@@ -293,7 +282,6 @@ RAGs-PDF-Reader/
 ├── pdf_chatbot.py        # Core chatbot class implementation
 ├── requirements.txt      # Python dependencies
 ├── .env                  # Environment variables (create this)
-├── .env.example         # Environment template
 ├── README.md            # This file
 ├── chroma_db_temp/      # ChromaDB storage (auto-created)
 └── gen_ai/             # Virtual environment (auto-created)
@@ -364,3 +352,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by [aaarif796](https://github.com/aaarif796)**
 
 *If this project helped you, please consider giving it a ⭐!*
+
